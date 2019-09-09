@@ -1,3 +1,4 @@
+Victoria Hurtado C.
 # CONCEPTOS BÁSICOS
 ![enter image description here](https://i.kinja-img.com/gawker-media/image/upload/s--naVUO4ZN--/c_scale,f_auto,fl_progressive,q_80,w_800/xjkuiypdh6ictzjokyzt.jpg)
 ## 1.2 De los problemas a los programas

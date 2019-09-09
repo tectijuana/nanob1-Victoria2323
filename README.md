@@ -1,28 +1,29 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+# CONCEPTOS BÁSICOS
+![enter image description here](https://i.kinja-img.com/gawker-media/image/upload/s--naVUO4ZN--/c_scale,f_auto,fl_progressive,q_80,w_800/xjkuiypdh6ictzjokyzt.jpg)
+## 1.2 De los problemas a los programas
+Existen programas que nos ayudan a resolver problemas con mayor facilidad, te dan las herramientas para facilitarte algunos procesos. puede ser por medio de algoritmos que te ayuden a ordenar y tomar decisiones para solucionar problemas, ya sea de diferentes tipos de problemas.
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="V I C T O R I A" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+## 1.3 Definicion de lenguaje
+Es un sistema de comunicación estructurado para el que existe un contexto de uso y ciertos principios combinatorios formales.
 
-Plantilla generica de todo repositorio.
+## 1.4 Definición de algoritmo
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+un algoritmo es una  **secuencia de instrucciones secuenciales**, gracias al cual pueden llevarse a cabo ciertos procesos  y darse respuesta a determinadas necesidades o decisiones. Se trata de conjuntos ordenados y finitos de pasos, que nos permiten resolver un problema o tomar una decisión.
 
-----
+  
+  
+Fuente:  [https://concepto.de/algoritmo-en-informatica/#ixzz5z4MgbEGD](https://concepto.de/algoritmo-en-informatica/#ixzz5z4MgbEGD)
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+## 1.5 Algoritmos cotidianos
 
-----
+ Un algoritmo cotidiano es:
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+_La serie de pasos que realizamos en nuestra vida diaria para realizar las diferentes tareas y actividades comunes, desde los pasos al levantarnos, así como ir de compras, etc._
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
+## 1.6 Definición de lenguajes de algoritmos
 
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
-
+En informática, se conoce como lenguaje de programación a **un programa destinado a la construcción de otros programas informáticos**. Su nombre se debe a que comprende un lenguaje formal que está diseñado para organizar algoritmos y procesos lógicos que serán luego llevados a cabo por un ordenador o sistema informático, permitiendo controlar así su comportamiento físico, lógico y su comunicación con el usuario humano.  
+  
+Fuente:  [https://concepto.de/lenguaje-de-programacion/#ixzz5z4MAI800](https://concepto.de/lenguaje-de-programacion/#ixzz5z4MAI800)
+ 
 
